@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android Phone Dailer</string>
+    <string name="call_sj">Call SJ</string>
+    <string name="call_residence">Call residence</string>
+    <string name="message">In case of emergency click above button</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
